@@ -33,13 +33,13 @@
 - (void)testMyExample {
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
-    XCTAssert(NO, @"Pass");
+    XCTAssert(YES, @"Pass");
 }
 
 - (void)testJenkinsUnitTest {
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
-    XCTAssert(NO, @"Pass");
+    XCTAssert(YES, @"Pass");
 }
 
 - (void)testPerformanceExample {
